@@ -18,10 +18,10 @@ pip install requests matplotlib numpy
 ```
 
 ## Como Usar
-1. Salve o script Python (por exemplo, como `crypto_prices.py`).
+1. Salve o script Python (por exemplo, como `main.py`).
 2. Execute o script em um ambiente Python com as bibliotecas necessárias instaladas:
    ```bash
-   python crypto_prices.py
+   python main.py
    ```
 3. O script fará requisições à API da CoinGecko e gerará um arquivo `crypto_prices.png` no diretório atual.
 4. Se a exibição gráfica for suportada no seu ambiente, uma janela com os gráficos será exibida; caso contrário, verifique o arquivo PNG gerado.
